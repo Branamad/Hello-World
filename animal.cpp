@@ -15,6 +15,6 @@ int main()
 	std::cin >> faveAnimal;
 	std::cout << "Your favorite animal is the " << faveAnimal;
 	std::cout << "." << std::endl;
-
+	std::cout << "awesome possum";
 	return 0;
 }
